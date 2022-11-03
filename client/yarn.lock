@@ -1686,6 +1686,11 @@
     sudo-prompt "^9.0.0"
     wcwidth "^1.0.1"
 
+"@snyk/protect@^1.1049.0":
+  version "1.1049.0"
+  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.1049.0.tgz#a248b74e246d8da028f9fa196780c7da366ec701"
+  integrity sha512-lCRgwMOwlS8brwuuhozncYe0Ste4APhmjf2SzDT0AklL5C9kpBy9wB5Wgk5I/6EOYckV/o+pv5Y8Q/VAEdLtQg==
+
 "@types/axios@^0.14.0":
   version "0.14.0"
   resolved "https://registry.yarnpkg.com/@types/axios/-/axios-0.14.0.tgz#ec2300fbe7d7dddd7eb9d3abf87999964cafce46"
