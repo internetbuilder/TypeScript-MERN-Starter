@@ -19,7 +19,7 @@
     "axios": "^0.19.2",
     "bluebird": "^3.7.2",
     "es6-object-assign": "^1.1.0",
-    "http-proxy-middleware": "^0.19.1",
+    "http-proxy-middleware": "^2.0.9",
     "insert-text-at-cursor": "^0.3.0",
     "intl": "^1.2.5",
     "lodash": "^4.17.19",
