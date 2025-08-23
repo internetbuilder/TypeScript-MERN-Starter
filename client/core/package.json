@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@babel/plugin-proposal-object-rest-spread": "^7.5.5",
-    "@toast-ui/react-editor": "^1.0.1",
+    "@toast-ui/react-editor": "^2.0.0",
     "@types/http-proxy-middleware": "^0.19.3",
     "@types/insert-text-at-cursor": "^0.3.0",
     "@types/jquery": "^3.3.31",
